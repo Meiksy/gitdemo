@@ -1,1 +1,4 @@
-surf
+thundershock
+quick attach
+thunder wave
+thunderbolt
